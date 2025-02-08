@@ -1,16 +1,22 @@
-Ok，这只是一个很简单的Readme
+<img src="https://raw.githubusercontent.com/Xiaomckedou233/Xiaomckedou233/refs/heads/main/Readme.png" alt="Coding" width=100%>
 
-## Hi there👋
+- 🔭 参与项目 **XiaoNetwork**、**TRCloud**
 
-我，Xiao_mckedou233（可以叫我小蝌蚪），只是一个废物开发者，住在上海，平时灵感爆发才会写点东西，平时还卖点小服务器，也会开点服务器
+- 🌱 正在学习 **Kotlin**
+
+- ⚡ 冷知识 **I am 舞萌吃**
+
+## Languages and Tools:
+<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
 ## My Code Status
-![Xiaomckedou233‘s GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaomckedou233&count_private=true&show_icons=true)
+![Xiaomckedou233‘s GitHub stats](https://github-readme-stats.vercel.app/api?username=Xiaomckedou233&count_private=true&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaomckedou233&layout=compact&theme=tokyonight)](https://github.com/Xiaomckedou233)
 
-~~很废物不是吗~~
-### 📫 Contact Me
+## 📫 Contact Me
 
 你可以通过邮件或者QQ来联系我
 
-[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-xiaomckedou233%40qq.com-%2357728B?style=for-the-badge)](mailto:xiaomckedou233@qq.com)
+[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-xiaomckedou233%40xiaomcserver.top-%2357728B?style=for-the-badge)](mailto:xiaomckedou233@xiaomcserver.top)
+[![QQ](https://img.shields.io/badge/QQ-3605513290-%231296db?style=for-the-badge&logo=tencent-qq&logoColor=white)](https://qm.qq.com/q/i3tYcaxGjC)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xiaomckedou233&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="xiaomckedou233" /> </p>
