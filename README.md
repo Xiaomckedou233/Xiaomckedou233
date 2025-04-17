@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/Xiaomckedou233/Xiaomckedou233/refs/heads/main/Readme.png" alt="Coding" width=100%>
 
 
-- 🔭 参与项目 **XiaoNetwork**、**TRCloud**
+- 🔭 参与项目 **XiaoNetwork**、**TRCloud**、**ChorusStudio**
 
 - 🌱 正在学习 **Kotlin**
 
